@@ -73,8 +73,4 @@ Hugging Face for providing tools & inspiration
 
 Open-source community for dataset preprocessing utilities
 
-📜 License
-This project is licensed under the MIT License.
 
-yaml
-Copy code
